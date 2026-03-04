@@ -1,0 +1,5 @@
+{
+  "name": "Phishing Investigation Dashboard",
+  "description": "A professional SOC analyst tool for investigating suspicious emails, identifying IOCs, and generating analysis reports.",
+  "requestFramePermissions": []
+}
